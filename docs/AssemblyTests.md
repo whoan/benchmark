@@ -1,7 +1,7 @@
 # Assembly Tests
 
 The Benchmark library provides a number of functions whose primary
-purpose in to affect assembly generation, including `DoNotOptimize`
+purpose is to affect assembly generation, including `DoNotOptimize`
 and `ClobberMemory`. In addition there are other functions,
 such as `KeepRunning`, for which generating good assembly is paramount.
 
